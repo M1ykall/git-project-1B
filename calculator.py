@@ -1,4 +1,4 @@
 a = 2
 b = 3
-tambah = a+b
+c = a+b
 print(tambah)
